@@ -94,7 +94,7 @@ a:focus {
 .navbar-custom ul.nav li a {
 	font-size: 12px;
 	letter-spacing: 1px;
-    color: #444;
+    /*color: #444;*/
 	text-transform: uppercase;
 	font-weight: 700;
 }
@@ -742,7 +742,7 @@ Parallax
     }
 
     .navbar-custom ul.nav li a {
-        color: #FFF;
+        /*color: #FFF;*/
     }
 
     .top-nav-collapse {
@@ -819,5 +819,5 @@ Parallax
 }
 
 .navbar-custom ul.nav li a {
-    color: #FFF;
+   /* color: #FFF;*/
 }
